@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven Valerio.
 - 👀 I’m interested in continuing learning to program.
 - 🌱 I’m currently learning of accounting and AWS.
-- 💞️ I’m looking to collaborate on everyone.
+- 💞️ I’m looking to collaborate with everyone.
 - 📫 How to reach me send me a email: valeriosteven54@gmail.com
 
 <!---
